@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <DebugType>portable</DebugType>
+    <AssemblyName>McGill.Library</AssemblyName>
+    <PackageId>McGill.Library</PackageId>
+    <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+  </PropertyGroup>
+
+</Project>
